@@ -1,5 +1,6 @@
 <h4 align="center">
 <img src="./assets/images/icon.png" width="250px" /><br>
+<br>
  <b>Organize seus estudos!</b> 🦸‍♂️
 </h4>
 
@@ -35,6 +36,16 @@ Esses benefícios tornam o InfoLinks um aliado indispensável para qualquer estu
 ### :mortar_board: Quem ministrou?
 
 Esta aplicação foi produzida com muita dedicação e carinho pela Rocketseat foi ministrada pelo <b>Sensei</b> [Fernando Damasceno](https://github.com/FernandoNandoz)
+
+### :eyes: Pega a visão...
+
+<div align="center">
+    <img  src="./assets/screeshots/principal.png" width="450px" /><br>
+    <img  src="./assets/screeshots/secundaria.png" width="450px" /><br>
+    <img  src="./assets/screeshots/adicional1.png" width="450px" /><br>
+    <img  src="./assets/screeshots/adicional2.png" width="450px" /><br>
+</div>
+
 
 ---
 
