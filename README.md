@@ -39,12 +39,9 @@ Esta aplicação foi produzida com muita dedicação e carinho pela Rocketseat f
 
 ### :eyes: Pega a visão...
 
-<div align="center">
-    <img  src="./assets/screeshots/principal.png" width="450px" /><br>
-    <img  src="./assets/screeshots/secundaria.png" width="450px" /><br>
-    <img  src="./assets/screeshots/adicional1.png" width="450px" /><br>
-    <img  src="./assets/screeshots/adicional2.png" width="450px" /><br>
-</div>
+<img src="./assets/screeshots/principal.png" width="auto" /><br>
+<img src="./assets/screeshots/secundaria.png" width="auto" /><br>
+
 
 
 ---
